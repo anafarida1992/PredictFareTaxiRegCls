@@ -1,4 +1,4 @@
-**Project TLC Taxi aims to achieve its goals using a dataset containing 22,699 rows and 18 columns:**\
+**Project TLC Taxi aims to identify ways to increase taxi drivers' revenue by analyzing a dataset with 22,699 rows and 18 columns:**\
 A.	Predicting taxi fare using regression analysis.\
 B.	Comparing Credit Card and Cash Payments using A/B test.\
 C.	Predicting generous tippers using classification analysis.\
